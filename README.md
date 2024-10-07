@@ -1,6 +1,6 @@
 # SWEA 코테 연습
 > [!note]
-> 💙 https://swexpertacademy.com/main/main.do  
+> 💙 https://swexpertacademy.com
 > 📆 2024.10.07.월 ~  
 
 <div align="center">
