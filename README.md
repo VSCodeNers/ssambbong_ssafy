@@ -1,6 +1,6 @@
 # SWEA 코테 연습
 > [!note]
-> 💙 SSAFY 13기가 되기 위한 코테 연습  
+> 💙 https://swexpertacademy.com/main/main.do  
 > 📆 2024.10.07.월 ~  
 
 <div align="center">
