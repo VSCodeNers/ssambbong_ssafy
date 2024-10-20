@@ -19,10 +19,19 @@ public class SWEA_1859 {
       for(int i = 0; i < N; i++) {
         cost[i] = Integer.parseInt(st.nextToken());
       }
-
       
+      long answer = 0L;
+      int max = cost[N - 1];
 
-      int answer = 0;
+      for(int i = N - 2; i >= 0; i--) {
+        if(cost[i] > max) {
+          max = cost[i];
+        }
+        else {
+          answer += (max - cost[i]);
+        }
+      }
+
       printSet.append("#").append(test_case).append(" ").append(answer).append("\n");
     }
 
