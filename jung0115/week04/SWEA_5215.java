@@ -1,3 +1,4 @@
+// 4주차 - 5215. 햄버거 다이어트
 package jung0115.week04;
 
 import java.io.BufferedReader;
