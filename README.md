@@ -1,7 +1,7 @@
 # SWEA 코테 연습
 > [!note]
 > 💙 https://swexpertacademy.com  
-> 📆 2024.10.07.월 ~  
+> 📆 2024.10.07.월 ~ 2024.11.08.일  
 
 <div align="center">
   <a href="https://hits.seeyoufarm.com">
